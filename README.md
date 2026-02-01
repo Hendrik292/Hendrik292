@@ -27,7 +27,7 @@ I'm a tech enthusiast with a passion for automation, networking, and DIY project
 - Automation and scripting for server management  
 
 ### 📫 How to Reach Me  
-- 📧 Email: [hendrik.leethaus3@gmail.com](mailto:hendrik.leethaus3@gmail.com) | [hendrik@leethaus.de](mailto:hendrik@leethaus,de)  
+- 📧 Email: [hendrik.leethaus3@gmail.com](mailto:hendrik.leethaus3@gmail.com) | [hendrik@leethaus.de](mailto:hendrik@leethaus.de)  
 - Feel free to check out my projects and reach out on GitHub!  
 
 ⚡ Fun fact: I registered `AS3209.net` because it matches Vodafone's AS number. Maybe they'll buy it someday. 😆
